@@ -26,3 +26,5 @@ Por ejemplo si :
 
 El método regresar un número entero ***5***
 
+Utiliz el archivo **test1.py** para probar su método
+
