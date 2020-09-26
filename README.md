@@ -4,7 +4,7 @@ Escriba un programa llamado **archivo.py**
 
 El ejercicio deberá de leer el archivo de datos proporcionado llamado **informacion.tx**t que contiene tres renglones de números enteros separados por comas.
 
-![image-20200926182334906](/home/avmejia/TEC/AGO-DIC20/TC1028/GitHub/TC1028-archivos/img/texto.png)
+![image-20200926182334906](img/texto.png)
 
 Defina un método llamado lectura que recibirá trés parámetros
 
@@ -14,7 +14,7 @@ Defina un método llamado lectura que recibirá trés parámetros
 
 Si se imprime la lista resultante de la lectura del archivo sería así 
 
-![image-20200926182624581](/home/avmejia/TEC/AGO-DIC20/TC1028/GitHub/TC1028-archivos/img/listas.png)
+![image-20200926182624581](img/listas.png)
 
 EL método debe de regresar el número entero requerido.
 
